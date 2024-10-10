@@ -1,0 +1,25 @@
+{
+  "name": "belajar-k6",
+  "version": "1.0.0",
+  "description": "K6 Performance test API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaikalRFadhilahh/learn-k6.git"
+  },
+  "keywords": [
+    "k6",
+    "performance",
+    "test"
+  ],
+  "author": "Haikal R Fadhilah",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HaikalRFadhilahh/learn-k6/issues"
+  },
+  "homepage": "https://github.com/HaikalRFadhilahh/learn-k6#readme"
+}
