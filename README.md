@@ -21,5 +21,5 @@
 
 ### Running K6 with Web Interactive Dashboard
 
-- `echo "export K6_WEB_DASHBOARD=true >> ~/.zshrc && source ~/.zshrc"` (Tambah export variable pada file .bashrc / .zshrc)
+- `echo "export K6_WEB_DASHBOARD=true" >> ~/.zshrc && source ~/.zshrc` (Tambah export variable pada file .bashrc / .zshrc)
 - `export K6_WEB_DASHBOARD=true` (Export Variable Menggunakan Sesi terminal. notes: hilang saat sesi terminal di terminate)
